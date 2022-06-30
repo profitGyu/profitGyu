@@ -2,9 +2,6 @@
 
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=439ef3&height=250&descAlign=70&fontAlign=50&section=header&text=silent10z&fontSize=70&fontColor=2E2E2E&animation=twinkling&desc=FrontEnd-Developer&descAlignY=65)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silent10z&show_icons=true&theme=radical)
-
     
   ###  🛠️ Tech Stack 🛠️
   ---
@@ -27,6 +24,20 @@
 <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat-square&logo=AWS Amplify&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>   -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silent10z&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=silent10z&show_icons=true&theme=radical"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silent10z&layout=compact"/></td>
+  </tr>
+</table>
+    
+    
+    
+<!-- <div>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silent10z&show_icons=true&theme=radical)    
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silent10z&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div> -->
 <br/>
 
