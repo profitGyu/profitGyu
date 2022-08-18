@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFCDB9&height=250&descAlign=70&fontAlign=50&section=header&text=silent10z&fontSize=70&fontColor=2E2E2E&animation=twinkling&desc=FrontEnd-Developer&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFCDB9&height=250&descAlign=70&fontAlign=50&section=header&text=profitGyu&fontSize=70&fontColor=2E2E2E&animation=twinkling&desc=FrontEnd-Developer&descAlignY=65)
     
   ###  🛠️ Tech Stack 🛠️
   ---
