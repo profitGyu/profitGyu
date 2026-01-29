@@ -1,79 +1,46 @@
-### Hi there 👋
+<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFCDB9&height=250&descAlign=70&fontAlign=50&section=header&text=profitGyu&fontSize=70&fontColor=2E2E2E&animation=twinkling&desc=FrontEnd-Developer&descAlignY=65)
+### Hi there 👋 I'm ProfitGyu (Lee Deuk-kyu)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFCDB9&height=250&descAlign=70&fontAlign=50&section=header&text=ProfitGyu&fontSize=70&fontColor=2E2E2E&animation=twinkling&desc=Frontend%20Engineer%20(4th%20Year)&descAlignY=65)
 
-    
+<p align="center">
+  <a href="mailto:profitgyu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://github.com/profitGyu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+</p>
 
-  ###  🛠️ Tech Stack 🛠️
+---
 
-  ---
+### 🛠️ Tech Stack 🛠️
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FwaterhumanB%2FwaterhumanB&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=true"/></a>  
+**Frontend** <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js%2015-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=React%20Query&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=React&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+**Backend & DevOps** <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+---
 
-<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=SASS&logoColor=white"/>
+### 🚀 Key Projects & Impact
+- **연애의자격 리뉴얼**: Next.js 15 도입 및 SEO 최적화, CI/CD 파이프라인 자동화
+- **내편 플랫폼**: React Query v5 마이그레이션 및 Flutter Webview 앱 대응
+- **원패브릭/올패브릭**: B2B/B2C 서비스 확장 및 Atomic Design 기반 디자인 시스템 구축
+- **성능 최적화**: 렌더링 병목 해결을 통한 사용자 경험 개선 및 배포 시간 60% 단축
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+---
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>  
-
-<img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4A30BE?style=flat-square&logo=ESLint&logoColor=white" />
-
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-
-<img alt="Stylelint" src="https://img.shields.io/badge/-Stylelint-000000?style=flat-square&logo=Stylelint&logoColor=white" />  
-
-<img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ReduxTooklit-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Recoil-007af4?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBpZD0iQ2FscXVlXzEiIGRhdGEtbmFtZT0iQ2FscXVlIDEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI1NS4yMSA2MjMuOTEiPjxkZWZzPjxzdHlsZT4uY2xzLTF7ZmlsbDp3aGl0ZX08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Im03NC42MiAyNzcuNDYgMS4yNC0uMTMgMzQuNzgtMy4yOC01My40Ny01OC42NkE5Ni40NyA5Ni40NyAwIDAgMSAzMiAxNTAuM0gzYTEyNS4zIDEyNS4zIDAgMCAwIDMyLjggODQuNTdaTTE3Ny4xMyAzNDdsLTM2IDMuNCA1My4zMiA1OC41MUE5Ni40MSA5Ni40MSAwIDAgMSAyMTkuNjMgNDc0aDI4LjkyYTEyNS4yOCAxMjUuMjggMCAwIDAtMzIuNzYtODQuNTdaIi8+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMjUzLjY5IDIzMS42OGMtNi4zMy0zMS4zLTMwLjg5LTU0LjA5LTYyLjU3LTU4LjA3bC02LjM1LS43OWE0OS42MSA0OS42MSAwIDAgMS00My4zNS00OS4xM3YtMjBhNTIuNzUgNTIuNzUgMCAxIDAtMjguOTEtLjM2djIwLjM4YTc4LjU2IDc4LjU2IDAgMCAwIDY4LjY1IDc3LjgybDYuMzYuOGMyMy4yNCAyLjkyIDM0Ljc4IDIwIDM3LjgzIDM1LjFzLS45MyAzNS4zMi0yMS4yMiA0N2E3My44MSA3My44MSAwIDAgMS0zMC4wNiA5LjYybC05NS42NiA5YTEwMi40NSAxMDIuNDUgMCAwIDAtNDEuOCAxMy4zOEM5IDMzMi40NS00LjgxIDM2MyAxLjUyIDM5NC4yOXMzMC44OSA1NC4wOCA2Mi41NyA1OC4wNmw2LjM1LjhhNDkuNiA0OS42IDAgMCAxIDQzLjM1IDQ5LjEydjE4YTUyLjc1IDUyLjc1IDAgMSAwIDI4LjkxLjI2di0xOC4yNmE3OC41NSA3OC41NSAwIDAgMC02OC42NS03Ny44MWwtNi4zNi0uOGMtMjMuMjQtMi45Mi0zNC43OC0yMC4wNS0zNy44My0zNS4xMXMuOTMtMzUuMzIgMjEuMjItNDdhNzMuNjggNzMuNjggMCAwIDEgMzAuMDYtOS42M2w5NS42Ni05YTEwMi40NSAxMDIuNDUgMCAwIDAgNDEuOC0xMy4zOGMyNy42NS0xNi4wMiA0MS40LTQ2LjU0IDM1LjA5LTc3Ljg2WiIvPjwvc3ZnPg==&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/>  
-
-<!-- <img src="https://img.shields.io/badge/Victory.js-blue?style=flat-square&logo=Vector Logo Zone&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GoogleAnalytics-E37400?style=flat-square&logo=Google Analytics&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat-square&logo=AWS Amplify&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>   -->
-
-
-
-<table cellpadding="0">
-
-  <tr style="padding: 0">
-
-    <!-- GitHub Stats Card -->  
-
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=silent10z&show_icons=true&theme=radical"/></td>
-
-    <!-- GitHub Top Language Card -->
-
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silent10z&layout=compact"/></td>
-
+### 📊 Github Stats
+<table align="center">
+  <tr>
+    <td><img height="180" src="https://github-readme-stats.vercel.app/api?username=profitGyu&show_icons=true&theme=radical&hide_border=true" /></td>
+    <td><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profitGyu&layout=compact&theme=radical&hide_border=true" /></td>
   </tr>
-
 </table>
 
-    
-
-    
-
-    
-
-<!-- <div>
-
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silent10z&show_icons=true&theme=radical)    
-
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silent10z&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<div> -->
-
-<br/>
+</div>
