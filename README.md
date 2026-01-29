@@ -25,22 +25,3 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
 
----
-
-### 🚀 Key Projects & Impact
-- **연애의자격 리뉴얼**: Next.js 15 도입 및 SEO 최적화, CI/CD 파이프라인 자동화
-- **내편 플랫폼**: React Query v5 마이그레이션 및 Flutter Webview 앱 대응
-- **원패브릭/올패브릭**: B2B/B2C 서비스 확장 및 Atomic Design 기반 디자인 시스템 구축
-- **성능 최적화**: 렌더링 병목 해결을 통한 사용자 경험 개선 및 배포 시간 60% 단축
-
----
-
-### 📊 Github Stats
-<table align="center">
-  <tr>
-    <td><img height="180" src="https://github-readme-stats.vercel.app/api?username=profitGyu&show_icons=true&theme=radical&hide_border=true" /></td>
-    <td><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profitGyu&layout=compact&theme=radical&hide_border=true" /></td>
-  </tr>
-</table>
-
-</div>
